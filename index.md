@@ -1,3 +1,9 @@
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="UTF-8">
+    <meta name="description" content="A personal website for SysadminRiley, or RileyDotDev.">
+</head>
+
 # SysadminRiley@GitHub
 
 [WIP 😅]
